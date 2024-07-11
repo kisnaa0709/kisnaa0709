@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS developer**
 
-- 📫 How to reach me **rajputkishan0809@gmail.com**
+- 📫 How to reach me **ted.kishan@gmail.com**
 
 - ⚡ Fun fact **I Know Nothing..**
 
