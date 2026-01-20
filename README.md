@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Kisna Diamonds](https://kisna-prod-kisna-web.xzmowh.easypanel.host/)
+- 🔭 I’m currently working on [Kisna Diamonds](https://www.kisna.com/)
 
 - 🌱 I’m currently learning **System design**
 
